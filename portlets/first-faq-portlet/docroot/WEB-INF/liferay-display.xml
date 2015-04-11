@@ -3,7 +3,6 @@
 
 <display>
 	<category name="category.sample">
-		<portlet id="first-faq" />
-		<portlet id="faq"></portlet>
+		<portlet id="1" />
 	</category>
 </display>

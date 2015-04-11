@@ -3,19 +3,10 @@
 
 <liferay-portlet-app>
 	<portlet>
-		<portlet-name>first-faq</portlet-name>
+		<portlet-name>1</portlet-name>
 		<icon>/icon.png</icon>
 		<header-portlet-css>/css/main.css</header-portlet-css>
 		<footer-portlet-javascript>/js/main.js</footer-portlet-javascript>
-		<css-class-wrapper>first-faq-portlet</css-class-wrapper>
-	</portlet>
-	<portlet>
-		<portlet-name>faq</portlet-name>
-		<icon>/icon.png</icon>
-		<header-portlet-css>/css/main.css</header-portlet-css>
-		<footer-portlet-javascript>
-			/js/main.js
-		</footer-portlet-javascript>
 		<css-class-wrapper>faq-portlet</css-class-wrapper>
 	</portlet>
 	<role-mapper>
